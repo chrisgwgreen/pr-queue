@@ -1,0 +1,63 @@
+{
+  "en": {
+    "translation": {
+      "success": {
+        "avatarUpdated": "Avatar Updated",
+        "nameUpdated": "Name Updated",
+        "emailUpdated": "Email Updated",
+        "categoryUpdated": "Category Updated",
+        "itemUpdated": "Item Updated"
+      },
+      "account": {
+        "changeName": "Change Name",
+        "changeEmail": "Change Email",
+        "changePassword": "Change Password",
+        "deleteAccountTitle": "Delete Account"
+      },
+      "login": {
+        "title": "Login",
+        "email": "Email",
+        "password": "Password",
+        "aboutLink": "About",
+        "forgot": "Forgot Password"
+      },
+      "category": {
+        "newCategory": "New Category"
+      },
+      "item": {
+        "newItem": "New Ticket"
+      },
+      "register": {
+        "title": "Register"
+      },
+      "forgotPassword": {
+        "title": "Forgotten Password",
+        "description": "Please enter your email below."
+      },
+      "shared": {
+        "email": "Email",
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "register": "Register",
+        "login": "Login",
+        "send": "Send",
+        "forename": "First Name",
+        "surname": "Last Name",
+        "day": "Day",
+        "month": "Month",
+        "year": "Year",
+        "title": "Moni's Wardrobe",
+        "dob": "Date of Birth",
+        "agreeTerms": "Agree terms",
+        "tel": "Telephone",
+        "wardrobe": "Wardrobe",
+        "profile": "Profile",
+        "save": "Save",
+        "titlePlaceholder": "Title",
+        "logout": "Logout",
+        "outfits": "Outfits",
+        "category": "Category"
+      }
+    }
+  }
+}

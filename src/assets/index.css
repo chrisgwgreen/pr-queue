@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: 'Bebas Neue', 'Fira Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  background: #000;
+}
+
+textarea {
+  font-family: 'Bebas Neue', 'Fira Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+  transition: background-color 600000s 0s, color 600000s 0s;
+}
+
+input[data-autocompleted] {
+  background-color: transparent !important;
+}
+
+.parallax-overflow {
+  overflow: visible !important;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  body {
+    background-position: 52% 0;
+  }
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+  transition: background-color 600000s 0s, color 600000s 0s;
+}
+
+input[data-autocompleted] {
+  background-color: transparent !important;
+}
